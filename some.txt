@@ -32,3 +32,4 @@ FFFFFFFFFFFFOOOOOOOOOOOOOOOOOOOO
 end 2
 rrr
 строчка 
+строчка pull
